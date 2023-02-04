@@ -1,4 +1,4 @@
-This repository collects all informations, codes, and presentations related to the workshop I presented at the 5th "[CSMA (Computational Structural Mechanics Association) Junior held in Porquerolles Island, France, on 14-15 May 2022](https://csma.asso.univ-lorraine.fr/csma-juniors/)".   
+This repository collects all informations, codes, and presentations related to the workshop I presented at the [5th CSMA (Computational Structural Mechanics Association) Junior held in Porquerolles Island, France, on 14-15 May 2022](https://csma.asso.univ-lorraine.fr/csma-juniors/).   
 
 # Workshop: Deep learning, real-time simulation and model-order reduction
 
