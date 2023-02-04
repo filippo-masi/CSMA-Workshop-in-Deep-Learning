@@ -1,16 +1,16 @@
-# [Thermodynamics-based Artificial Neural Networks](https://doi.org/10.1016/j.jmps.2020.104277)
+# Deep learning, real-time simulation and model-order reduction
 
 
-L'essor de structures innovantes en ingénierie est aujourd'hui freiné par notre capacité à prédire la réponse des systèmes complexes, et plus précisément des matériaux qui les composent. Le comportement de ces derniers est en effet très difficile à appréhender avec des modèles empiriques, faute de la complexité sous-jacente et de la méconnaissance des phénomènes physiques.
+The rise of innovative structures in engineering is today hampered by our ability to predict the response of complex systems, and more precisely of the materials that compose them. The behavior of the latter is indeed very difficult to apprehend with empirical models, due to the lack of underlying complexity and lack of knowledge of physical phenomena.
 
-À cette ﬁn, les approches data-driven sont apparues ces dernières années avec comme but de fournir des descriptions enrichies du comportement matériau.
-Un changement de paradigme dans la modélisation traditionnelle s’est ainsi produit: les données, plutôt que d’être utilisées uniquement comme des outils de vériﬁcation, ont commencé à devenir le stimulus dans la quête de nouvelles représentations constitutives.
-Pourtant, les approches data-driven présentent des faiblesses majeures qui entravent leur application. L’absence d’un cadre rigoureux basé sur la physique (effet modèle « boite noire ») est un des principaux problèmes menaçant la généralisation de ces méthodes à la résolution de problèmes en ingénierie.
+To this end, data-driven approaches have emerged in recent years with the aim of providing enriched descriptions of material behavior.
+A paradigm shift in traditional modeling thus occurred: data, rather than being used solely as verification tools, began to become the stimulus in the quest for new constitutive representations.
+However, data-driven approaches have major weaknesses that hinder their application. The absence of a rigorous framework based on physics (“black box” model effect) is one of the main problems threatening the generalization of these methods to solve problems in engineering.
 
-Dans ce mini-cours, on se penchera sur les approches data-driven pilotées par la physique visant à modéliser le comportement des matériaux complexes et la réponse des structures hétérogènes. En particulier, on analysera en détail les réseaux de neurones basés sur la thermodynamique, aussi appelés TANN. Ces reseaux, grâce à l'intégration du premier et second principe de la thermodynamique, garantissent des résultats toujours thermodynamiquement admissibles et ouvrent de nouvelles possibilités dans la mécanique numérique et expérimentale, notamment à travers l'emploi de jumeaux numériques et des approches de réduction de modèles.
+In this mini-course, we will look at physics-driven data-driven approaches to modeling the behavior of complex materials and the response of heterogeneous structures. In particular, neural networks based on thermodynamics, also called TANN, will be analyzed in detail. These networks, thanks to the integration of the first and second principles of thermodynamics, guarantee results that are always thermodynamically admissible and open up new possibilities in numerical and experimental mechanics, in particular through the use of numerical twins and reduction approaches. models.
 
-Session pratique. On regardera de plus près l’implémentation théorique et numérique des réseaux des neurones pour la modélisation du comportement des matériaux. À travers des exemples motivants, on étudiera l'architecture des réseaux classiques et des réseaux TANN. L'attention sera mise sur la compréhension des schémas numériques et l’entraînement des réseaux des neurones, mais aussi la programmation guidée des certaines taches.
-À la fin de cette session pratique, on analysera les bénéfices des approches data-driven pilotés par la physique par rapport aux approches standard.
+Practical session. We will take a closer look at the theoretical and numerical implementation of neural networks for modeling the behavior of materials. Through motivating examples, we will study the architecture of classical networks and TANN networks. The attention will be put on the comprehension of the numerical diagrams and the training of the neural networks, but also the guided programming of certain tasks.
+At the end of this practical session, we will analyze the benefits of physics-driven data-driven approaches compared to standard approaches.
 
 
   - Masi, Stefanou, Vannucci, and Maffi-Berthier (2020). "[Thermodynamics-based Artificial Neural Networks for constitutive modeling](https://doi.org/10.1016/j.jmps.2020.104277)". Journal of the Mechanics and Physics of Solids, 104277.
